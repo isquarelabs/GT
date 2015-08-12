@@ -1,0 +1,12 @@
+{
+    "name": "TweetRap",
+	"description": "A Rest API framework from Node JS",
+	"version": "1.0.0",
+	"private": true,
+    "main": "server.js",
+    "dependencies": {
+        "express": "~4.0.0",
+        "mssql": "~2.1.6",
+        "body-parser": "~1.0.1"
+    }
+}
